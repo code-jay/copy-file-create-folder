@@ -1,5 +1,7 @@
 #!/bin/bash
+#source folder path
 srcdir="path/folder1"
+#destination folder path
 dstdir="path/folder2"
 
 for srcfile in ${srcdir}/*
